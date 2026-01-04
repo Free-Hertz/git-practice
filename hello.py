@@ -1,1 +1,1 @@
-print("My first git commit.")
+print("Git is easy..")
